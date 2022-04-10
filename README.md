@@ -1,4 +1,4 @@
-[![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)
+![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)
 <h1 align="center">Hello 🌍👋, I'm Sanya Verma</h1>
 <h3 align="center">A passionate learner 📖 and Full Stack Developer 💻</h3>
 <h4>I Am An Undergrad In Computer Science Engineering In Gyan Ganga Institute Of Technology And Science. I Am A Fascinating Learner Ready To Grab New Opportunities.I Am Aiming To Achieve Goals Of My Life With An Optimistic And Sustainable Mindset And That Is Something That Makes Me Determined And A Natural Performer.
