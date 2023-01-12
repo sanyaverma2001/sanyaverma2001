@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data Structures,Django,Django Rest Framework**
 
-- 👨‍💻 All of my projects are available at [https://sanyaverma2001.github.io/My_Portfolio/](sanyaverma.netlify.app)
+- 👨‍💻 All of my projects are available at [sanyaverma.netlify.app](sanyaverma.netlify.app)
 
 - 💬 Ask me about **HTML,C++,Python,Problem Solving**
 
