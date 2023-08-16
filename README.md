@@ -1,7 +1,7 @@
 ![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)
 <h1 align="center">Hello 🌍👋, I'm Sanya Verma</h1>
 <h3 align="center">A passionate learner 📖 and Full Stack Developer 💻</h3>
-<h4>I Am An Undergrad In Computer Science Engineering In Gyan Ganga Institute Of Technology And Science. I Am A Fascinating Learner Ready To Grab New Opportunities.I Am Aiming To Achieve Goals Of My Life With An Optimistic And Sustainable Mindset And That Is Something That Makes Me Determined And A Natural Performer.
+<h4>I Am  graduate In Computer Science Engineering In Gyan Ganga Institute Of Technology And Science. I Am A Fascinating Learner Ready To Grab New Opportunities.I Am Aiming To Achieve Goals Of My Life With An Optimistic And Sustainable Mindset And That Is Something That Makes Me Determined And A Natural Performer.
 </h4>
 
 <img  align = "right" alt="coding" width ="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300">
